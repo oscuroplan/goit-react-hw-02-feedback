@@ -1,3 +1,9 @@
+# goit-react-hw-02-feedback
+
+## Виджет отзывов
+
+Приложение для сбора статистики. Есть всего три варианта обратной связи: хорошо, нейтрально и плохо
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
